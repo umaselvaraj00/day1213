@@ -1,0 +1,46 @@
+.app {
+display: flex;
+width: 100%;
+display: inline-block;
+margin: auto;
+border: 3px ;
+padding: 10px;
+align-items: center;
+text-align: justify;
+align-items: center;
+
+
+
+}
+div{
+  align-content: center;
+  align-items: center;
+  width: 700px;
+  padding: 20px;
+ 
+}
+
+
+.form1{
+  align-items: center;
+  text-align: center;
+}
+.form2{
+  align-items: center;
+  text-align: center;
+}
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 70px;
+}
+.btn{
+text-align: right;
+}
